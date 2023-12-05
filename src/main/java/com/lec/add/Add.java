@@ -12,4 +12,6 @@ public class Add {
 		
 		return sum;
 	}
+	
+	//2023.12.06 comment 추
 }
